@@ -12,3 +12,6 @@ def works():
 
 def changed():
     print("change")
+
+def idek():
+    print("idek")
