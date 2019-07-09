@@ -9,9 +9,3 @@ def three():
 
 def works():
     print("It works!")
-
-def changed():
-    print("change")
-
-def idek():
-    print("idek")
