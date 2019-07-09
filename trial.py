@@ -21,3 +21,6 @@ def san():
 
 def why():
     print("what")
+
+def ha():
+    c = 1
