@@ -18,4 +18,6 @@ def idek():
 
 def san():
     a = 1
-    
+
+def why():
+    print("what")
