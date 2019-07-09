@@ -15,3 +15,7 @@ def changed():
 
 def idek():
     print("idek")
+
+def san():
+    a = 1
+    
