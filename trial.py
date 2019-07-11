@@ -9,3 +9,6 @@ def three():
 
 def works():
     print("It works?")
+    
+def method():
+    print("Lab")
